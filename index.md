@@ -11,7 +11,7 @@ Hi there! I'm Anthony Georgis, a programmer and aspiring ~~vibe coder~~ software
 - [Philosophy](#philosophy)
 
 ## About Me
-![My Profile Photo](images/profile.jpg)
+![My Profile Photo](images/profilepic.jpeg)
 
 ### Programming experience
 - I enjoy working with programming languages such as **Python**, **JavaScript**, and **C++**.
